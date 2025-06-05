@@ -31,3 +31,5 @@ Thumbs.db
 
 # VS Code settings (optional, if using VS Code)
 .vscode/
+*.grib2
+data/
